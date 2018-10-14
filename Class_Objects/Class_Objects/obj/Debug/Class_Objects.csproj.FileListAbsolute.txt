@@ -1,0 +1,6 @@
+c:\users\jp171\documents\visual studio 2015\Projects\Class_Objects\Class_Objects\bin\Debug\Class_Objects.exe.config
+c:\users\jp171\documents\visual studio 2015\Projects\Class_Objects\Class_Objects\bin\Debug\Class_Objects.exe
+c:\users\jp171\documents\visual studio 2015\Projects\Class_Objects\Class_Objects\bin\Debug\Class_Objects.pdb
+c:\users\jp171\documents\visual studio 2015\Projects\Class_Objects\Class_Objects\obj\Debug\Class_Objects.csprojResolveAssemblyReference.cache
+c:\users\jp171\documents\visual studio 2015\Projects\Class_Objects\Class_Objects\obj\Debug\Class_Objects.exe
+c:\users\jp171\documents\visual studio 2015\Projects\Class_Objects\Class_Objects\obj\Debug\Class_Objects.pdb
