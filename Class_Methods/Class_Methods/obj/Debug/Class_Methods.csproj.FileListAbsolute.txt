@@ -1,0 +1,7 @@
+C:\Users\jp171\source\repos\Class_Methods\Class_Methods\bin\Debug\Class_Methods.exe.config
+C:\Users\jp171\source\repos\Class_Methods\Class_Methods\bin\Debug\Class_Methods.exe
+C:\Users\jp171\source\repos\Class_Methods\Class_Methods\bin\Debug\Class_Methods.pdb
+C:\Users\jp171\source\repos\Class_Methods\Class_Methods\obj\Debug\Class_Methods.csprojAssemblyReference.cache
+C:\Users\jp171\source\repos\Class_Methods\Class_Methods\obj\Debug\Class_Methods.csproj.CoreCompileInputs.cache
+C:\Users\jp171\source\repos\Class_Methods\Class_Methods\obj\Debug\Class_Methods.exe
+C:\Users\jp171\source\repos\Class_Methods\Class_Methods\obj\Debug\Class_Methods.pdb
