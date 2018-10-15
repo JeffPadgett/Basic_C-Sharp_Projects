@@ -1,0 +1,7 @@
+C:\Users\jp171\source\repos\Class_Method_Drill\Class_Method_Drill\obj\Debug\Class_Method_Drill.csprojAssemblyReference.cache
+C:\Users\jp171\source\repos\Class_Method_Drill\Class_Method_Drill\obj\Debug\Class_Method_Drill.csproj.CoreCompileInputs.cache
+C:\Users\jp171\source\repos\Class_Method_Drill\Class_Method_Drill\bin\Debug\Class_Method_Drill.exe.config
+C:\Users\jp171\source\repos\Class_Method_Drill\Class_Method_Drill\bin\Debug\Class_Method_Drill.exe
+C:\Users\jp171\source\repos\Class_Method_Drill\Class_Method_Drill\bin\Debug\Class_Method_Drill.pdb
+C:\Users\jp171\source\repos\Class_Method_Drill\Class_Method_Drill\obj\Debug\Class_Method_Drill.exe
+C:\Users\jp171\source\repos\Class_Method_Drill\Class_Method_Drill\obj\Debug\Class_Method_Drill.pdb
