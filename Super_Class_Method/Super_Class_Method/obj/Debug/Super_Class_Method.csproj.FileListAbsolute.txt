@@ -1,0 +1,7 @@
+C:\Users\jp171\source\repos\Super_Class_Method\Super_Class_Method\bin\Debug\Super_Class_Method.exe.config
+C:\Users\jp171\source\repos\Super_Class_Method\Super_Class_Method\bin\Debug\Super_Class_Method.exe
+C:\Users\jp171\source\repos\Super_Class_Method\Super_Class_Method\bin\Debug\Super_Class_Method.pdb
+C:\Users\jp171\source\repos\Super_Class_Method\Super_Class_Method\obj\Debug\Super_Class_Method.csprojAssemblyReference.cache
+C:\Users\jp171\source\repos\Super_Class_Method\Super_Class_Method\obj\Debug\Super_Class_Method.csproj.CoreCompileInputs.cache
+C:\Users\jp171\source\repos\Super_Class_Method\Super_Class_Method\obj\Debug\Super_Class_Method.exe
+C:\Users\jp171\source\repos\Super_Class_Method\Super_Class_Method\obj\Debug\Super_Class_Method.pdb
