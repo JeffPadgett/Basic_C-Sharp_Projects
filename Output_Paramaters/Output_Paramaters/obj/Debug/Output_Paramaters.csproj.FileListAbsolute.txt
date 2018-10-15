@@ -1,0 +1,7 @@
+C:\Users\jp171\source\repos\Output_Paramaters\Output_Paramaters\bin\Debug\Output_Paramaters.exe.config
+C:\Users\jp171\source\repos\Output_Paramaters\Output_Paramaters\bin\Debug\Output_Paramaters.exe
+C:\Users\jp171\source\repos\Output_Paramaters\Output_Paramaters\bin\Debug\Output_Paramaters.pdb
+C:\Users\jp171\source\repos\Output_Paramaters\Output_Paramaters\obj\Debug\Output_Paramaters.csprojAssemblyReference.cache
+C:\Users\jp171\source\repos\Output_Paramaters\Output_Paramaters\obj\Debug\Output_Paramaters.csproj.CoreCompileInputs.cache
+C:\Users\jp171\source\repos\Output_Paramaters\Output_Paramaters\obj\Debug\Output_Paramaters.exe
+C:\Users\jp171\source\repos\Output_Paramaters\Output_Paramaters\obj\Debug\Output_Paramaters.pdb
