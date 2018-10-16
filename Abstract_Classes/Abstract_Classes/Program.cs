@@ -15,6 +15,9 @@ namespace Abstract_Classes
             employee1.lastName = "Student";
             employee1.SayName();
             Console.ReadLine();
+            employee1.Quit();
+            Console.WriteLine(employee1.firstName + "... " + employee1.lastName);
+            Console.ReadLine();
         }
     }
 }
