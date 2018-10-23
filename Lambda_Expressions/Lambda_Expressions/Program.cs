@@ -40,7 +40,7 @@ namespace Lambda_Expressions
 
             List<Employee> joeList = listEmployees.Where(x => x.firstName == "Joe").ToList();
             List<Employee> listId = listEmployees.Where(x => x.ID >= 105).ToList();
-            Console.WriteLine(listId[0].firstName, listId[1].firstName, listId[2].firstName, listId[3].firstName, listId[4].firstName);
+            Console.WriteLine("{0}, {1}, {2}, {3}, {4}", listId[0].firstName, listId[1].firstName, listId[2].firstName, listId[3].firstName, listId[4].firstName);
             Console.ReadLine();
 
 
