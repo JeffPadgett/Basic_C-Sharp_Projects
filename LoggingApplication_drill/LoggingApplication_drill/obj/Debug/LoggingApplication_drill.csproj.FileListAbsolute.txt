@@ -1,0 +1,5 @@
+c:\users\jp171\documents\visual studio 2015\Projects\LoggingApplication_drill\LoggingApplication_drill\bin\Debug\LoggingApplication_drill.exe.config
+c:\users\jp171\documents\visual studio 2015\Projects\LoggingApplication_drill\LoggingApplication_drill\bin\Debug\LoggingApplication_drill.exe
+c:\users\jp171\documents\visual studio 2015\Projects\LoggingApplication_drill\LoggingApplication_drill\bin\Debug\LoggingApplication_drill.pdb
+c:\users\jp171\documents\visual studio 2015\Projects\LoggingApplication_drill\LoggingApplication_drill\obj\Debug\LoggingApplication_drill.exe
+c:\users\jp171\documents\visual studio 2015\Projects\LoggingApplication_drill\LoggingApplication_drill\obj\Debug\LoggingApplication_drill.pdb
