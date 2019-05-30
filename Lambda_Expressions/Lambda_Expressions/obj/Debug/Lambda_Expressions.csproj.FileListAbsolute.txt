@@ -4,3 +4,10 @@ c:\users\jp171\documents\visual studio 2015\Projects\Lambda_Expressions\Lambda_E
 c:\users\jp171\documents\visual studio 2015\Projects\Lambda_Expressions\Lambda_Expressions\obj\Debug\Lambda_Expressions.csprojResolveAssemblyReference.cache
 c:\users\jp171\documents\visual studio 2015\Projects\Lambda_Expressions\Lambda_Expressions\obj\Debug\Lambda_Expressions.exe
 c:\users\jp171\documents\visual studio 2015\Projects\Lambda_Expressions\Lambda_Expressions\obj\Debug\Lambda_Expressions.pdb
+C:\Users\jp171\OneDrive\Desktop\Basic_C-Sharp_Projects\Lambda_Expressions\Lambda_Expressions\bin\Debug\Lambda_Expressions.exe.config
+C:\Users\jp171\OneDrive\Desktop\Basic_C-Sharp_Projects\Lambda_Expressions\Lambda_Expressions\bin\Debug\Lambda_Expressions.exe
+C:\Users\jp171\OneDrive\Desktop\Basic_C-Sharp_Projects\Lambda_Expressions\Lambda_Expressions\bin\Debug\Lambda_Expressions.pdb
+C:\Users\jp171\OneDrive\Desktop\Basic_C-Sharp_Projects\Lambda_Expressions\Lambda_Expressions\obj\Debug\Lambda_Expressions.csprojAssemblyReference.cache
+C:\Users\jp171\OneDrive\Desktop\Basic_C-Sharp_Projects\Lambda_Expressions\Lambda_Expressions\obj\Debug\Lambda_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\jp171\OneDrive\Desktop\Basic_C-Sharp_Projects\Lambda_Expressions\Lambda_Expressions\obj\Debug\Lambda_Expressions.exe
+C:\Users\jp171\OneDrive\Desktop\Basic_C-Sharp_Projects\Lambda_Expressions\Lambda_Expressions\obj\Debug\Lambda_Expressions.pdb
